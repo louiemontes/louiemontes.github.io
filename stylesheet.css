@@ -7,3 +7,9 @@ h2 {
 	lang: ar;
 	color: green;
 } 
+
+h1 {
+	dir: rtl;
+	lang: ar;
+	color: red
+}
