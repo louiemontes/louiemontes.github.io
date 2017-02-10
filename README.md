@@ -1,6 +1,6 @@
 # tohWebsite
-my attempt at learning html, css, and maybe eventually some php.  please do not take serious its just for the lols
+My attempt at learning html, css, and maybe eventually some php. Please do not take serious, as it is just for the lols.
 
-parody of The Young Turks (tytnetwork.com) 
+Parody of The Young Turks (tytnetwork.com). 
 
 Check out something more legit like: cefns.nau.edu/~lm877/
